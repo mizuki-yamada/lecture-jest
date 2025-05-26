@@ -11,7 +11,7 @@ import AppendixPage from './page/AppendixPage';
 
 const routes: RouteObject[] = [
   {
-    path: '/',
+    path: '/lecture-jest',
     element: <StartPage />,
   },
   {
